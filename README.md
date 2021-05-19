@@ -5,6 +5,7 @@ First, assure all provided files and images are in the same directory. The speci
 
 ## Compilation Instructions:
 Compile by entering command: javac HTTPWebServer.java
+
 Run by entering command : java HTTPWebServer
 
 Lastly, once you are done using the program you can use CTRL+C to terminate the program.
